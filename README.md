@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 
 > [!WARNING]
 > 警告です
+
+- 項目
+- 項目
+
+1. 項目
+2. 項目
+
