@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 > [!WARNING]
 > 警告です
 
-- 項目
-- 項目
+- 項目 :ghost:
+- 項目 :japanese_goblin:
 
-1. 項目
+1. 項目 :rice_cracker:
 2. 項目
 
