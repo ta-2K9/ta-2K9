@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> [!NOTE]
+> [!重要]
 > 注です
 
 > [!IMPORTANT]
