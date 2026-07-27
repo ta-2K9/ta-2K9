@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 > [!IMPORTANT]
 > 重要です
 
-> [! warning]
+> [!warning]
 > 警告です
